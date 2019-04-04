@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Utenti Destinatari}{}% 2
+\BOOKMARK [1][-]{section.3}{Sviluppo}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Progettazione}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Design}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{HTML e CSS}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Apache}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{MySQL e PHP}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{JavaScript}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Accessibilit\340}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Colori}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Immagini}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Scelte progettuali}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Navigazione nel sito}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{Mobile}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.6}{Test accessibilit\340}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Test daltonismo}{subsection.4.6}% 17
+\BOOKMARK [3][-]{subsubsection.4.6.2}{Contrasto colori}{subsection.4.6}% 18
+\BOOKMARK [3][-]{subsubsection.4.6.3}{Test Total Validator Tester}{subsection.4.6}% 19
+\BOOKMARK [1][-]{section.5}{Installazione}{}% 20
+\BOOKMARK [2][-]{subsection.5.1}{Requisiti}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.2}{Configurazione}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.3}{Struttura Directory}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.4}{Server HTTP Apache}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{Organizzazione interna}{}% 25
+\BOOKMARK [2][-]{subsection.6.1}{Gruppo}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.2}{Ambiente di sviluppo utilizzato}{section.6}% 27
